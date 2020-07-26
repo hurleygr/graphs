@@ -1,1 +1,1 @@
-# graphs
+# This file can be run by typing python3 rivalries.py into the terminal. It will prompt for an input file. Provide the full path to the file, or place the file in the same directory and just type its name including file extension. The program will output whether the list of rivalries allows all players to be separated onto opposite teams from their rival and one possible such separation. Otherwise it will return No. 
